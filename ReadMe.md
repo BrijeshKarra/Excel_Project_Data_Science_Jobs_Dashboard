@@ -80,19 +80,19 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 ####  Count of Job Schedule Type
 
-![type_count_code](/Visualizations/type_count_code.png)
+<img src="/Visualizations/type_count_code.png" alt="type_count_code" width="50%">
+
 
 - **Multi-Criteria Filtering:** This Excel formula ,similar to the use of `MEDIAN()` function before, incorporates the `COUNT()` function to count the number of job schedule types based on given job tite and country.
 - **Formula Purpose:** This formula populates the table below, which gives us a list of job schedule types.
 
 #### Background Table
 
-<img src="/Visualizations/type_count_output.png" alt="type_count_output" width="55%">
+<img src="/Visualizations/type_count_output.png" alt="type_count_output" width="50%">
 
 
 #### Dashboard Implementation:
 
-![type_count_dashboard](/Visualizations/type_count_dashboard.jpg)
 <img src="/Visualizations/type_count_dashboard.jpg" alt="type_count_dashboard" width="55%">
 
 
