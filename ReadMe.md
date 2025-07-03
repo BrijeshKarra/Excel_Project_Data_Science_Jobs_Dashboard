@@ -97,7 +97,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 
 
-###  Data Validation
+### Data Validation
 
 ####  Filtered List
 
