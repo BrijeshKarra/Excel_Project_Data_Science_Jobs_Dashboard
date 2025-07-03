@@ -1,4 +1,4 @@
-# Excel Project: Data Jobs Dashboard 
+# Excel Project: Data Science Jobs Dashboard 
 ![Excel Dashboard GIF](Visualizations/Dashboard.gif)
 
 ## Introduction
