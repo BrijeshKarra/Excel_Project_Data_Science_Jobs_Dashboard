@@ -46,8 +46,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 ####  Country Median Salaries - Map Chart
 
-![Salary_Map](/Visualizations/salary_map.gif)
-<img src="/Visualizations/salary_map.gif" alt="Salary_Map" width="80%" height="90%">
+<img src="/Visualizations/salary_map.gif" alt="Salary_Map" width="70%" height="90%">
 
 
 - **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
