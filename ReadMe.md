@@ -37,7 +37,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 ####  Data Science Job Salaries in Canada - Bar Chart
 
 ![Salaries](/Visualizations/Data_Science_Salaries_Canada.jpg)
-<img src="/Visualizations/Data_Science_Salaries_Canada.jpg" alt="Salaries" width="60%" height="90%">
+<img src="/Visualizations/Data_Science_Salaries_Canada.jpg" alt="Salaries" width="50%" height="90%">
 
 
 - **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -60,7 +60,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 ####  Median Salary by Job Titles
 
 
-<img src="/Visualizations/excel_code.jpg" alt="Median Salary Code" width="55%">
+<img src="/Visualizations/excel_code.jpg" alt="Median Salary Code" width="50%">
 
 
 
@@ -71,12 +71,12 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 ####  **Median Salary** Table for **Canadian Full-time** Data Science Roles
 
-<img src="/Visualizations/median_salary_excel.jpg" alt="median_salary_excel" width="55%">
+<img src="/Visualizations/median_salary_excel.jpg" alt="median_salary_excel" width="50%">
 
 
 #### Dashboard Implementation
 
-<img src="/Visualizations/dashboard_salary_output.jpg" alt="Dashboard_salary_output" width="55%">
+<img src="/Visualizations/dashboard_salary_output.jpg" alt="Dashboard_salary_output" width="50%">
 
 
 ####  Count of Job Schedule Type
@@ -94,7 +94,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 #### Dashboard Implementation:
 
-<img src="/Visualizations/type_count_dashboard.jpg" alt="type_count_dashboard" width="55%">
+<img src="/Visualizations/type_count_dashboard.jpg" alt="type_count_dashboard" width="50%">
 
 
 
