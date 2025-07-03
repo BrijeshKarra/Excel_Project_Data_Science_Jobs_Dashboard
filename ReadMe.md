@@ -60,7 +60,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 ![median_salary_code](/Visualizations/excel_code.jpg)
 
-<img src="/Visualizations/excel_code.jpg" width="400" height="500" alt="Median Salary Code">
+<img src="/Visualizations/excel_code.jpg" width="500" height="500" alt="Median Salary Code">
 
 
 - **Multi-Criteria Filtering:** Checks job title, excludes blank salaries, checks country, and schedule type.
