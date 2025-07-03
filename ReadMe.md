@@ -88,7 +88,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 #### Background Table
 
-<img src="/Visualizations/type_count_output.png" alt="type_count_output" width="50%">
+<img src="/Visualizations/type_count_output.png" alt="type_count_output" width="50%" height="60%">
 
 
 #### Dashboard Implementation:
