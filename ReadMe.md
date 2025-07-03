@@ -37,6 +37,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 ####  Data Science Job Salaries in Canada - Bar Chart
 
 ![Salaries](/Visualizations/Data_Science_Salaries_Canada.jpg)
+<img src="/Visualizations/Data_Science_Salaries_Canada.jpg" alt="Salaries" width="60%" height="90%">
 
 
 - **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
