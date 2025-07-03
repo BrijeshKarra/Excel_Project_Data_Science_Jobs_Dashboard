@@ -2,6 +2,8 @@
 
 ![Dashboard.gif](/Visualizations/Dashboard.gif)
 <img src="//Visualizations/Dashboard.gif" alt="Dashboard" >
+![Excel Dashboard GIF](Visualizations/Dashboard.gif)
+
 
 
 ## Introduction
