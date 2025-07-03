@@ -70,11 +70,13 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 ####  **Median Salary** Table for **Canadian Full-time** Data Science Roles
 
-![median_salary_excel](/Visualizations/median_salary_excel.jpg)
+<img src="/Visualizations/median_salary_excel.jpg" alt="median_salary_excel" width="55%">
+
 
 #### Dashboard Implementation
 
-![Dashboard_salary_output](/Visualizations/dashboard_salary_output.jpg)
+<img src="/Visualizations/dashboard_salary_output.jpg" alt="Dashboard_salary_output" width="55%">
+
 
 ####  Count of Job Schedule Type
 
@@ -85,11 +87,15 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 #### Background Table
 
-![type_count_output](/Visualizations/type_count_output.png)
+<img src="/Visualizations/type_count_output.png" alt="type_count_output" width="55%">
+
 
 #### Dashboard Implementation:
 
 ![type_count_dashboard](/Visualizations/type_count_dashboard.jpg)
+<img src="/Visualizations/type_count_dashboard.jpg" alt="type_count_dashboard" width="55%">
+
+
 
 ###  Data Validation
 
