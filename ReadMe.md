@@ -1,6 +1,8 @@
 # Excel Project: Data Jobs Dashboard 
 
 ![Dashboard.gif](/Visualizations/Dashboard.gif)
+<img src="//Visualizations/Dashboard.gif" alt="Dashboard" >
+
 
 ## Introduction
 
@@ -32,7 +34,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 ## Dashboard Build
 
-###  Charts
+### Charts
 
 ####  Data Science Job Salaries in Canada - Bar Chart
 
