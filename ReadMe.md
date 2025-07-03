@@ -94,7 +94,7 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 #### Dashboard Implementation:
 
-<img src="/Visualizations/type_count_dashboard.jpg" alt="type_count_dashboard" width="50%" height="40%">
+<img src="/Visualizations/type_count_dashboard.jpg" alt="type_count_dashboard" width="40%" height="40%">
 
 
 
