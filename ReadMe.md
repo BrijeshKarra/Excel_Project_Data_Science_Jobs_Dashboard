@@ -1,6 +1,6 @@
 # Excel Project: Data Jobs Dashboard 
 
-![Dashboard.png](/Visualizations/Dashoboard.gif)
+![Dashboard.png](/Visualizations/Dashboard.gif)
 
 ## Introduction
 
