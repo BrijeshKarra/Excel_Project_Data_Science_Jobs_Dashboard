@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This data jobs salary dashboard was created to help data science job seekers investigate salaries for their desired jobs based on their preferred location and job type.
+This dashboard was created to help data science job seekers investigate salaries for their desired jobs based on their preferred location and job type.
 
 The project is inspired by the online course [Excel for Data Analytics - Full Course for Beginners](https://www.lukebarousse.com/excel) by [Luke Barousse](https://github.com/lukebarousse).
 
