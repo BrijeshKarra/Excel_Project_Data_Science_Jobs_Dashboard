@@ -58,7 +58,6 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 
 ####  Median Salary by Job Titles
 
-![median_salary_code](/Visualizations/excel_code.jpg)
 
 <img src="/Visualizations/excel_code.jpg" width="958" height="539" alt="Median Salary Code">
 
