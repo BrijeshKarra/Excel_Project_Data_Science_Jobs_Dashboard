@@ -5,10 +5,6 @@
 
 This dashboard was created to help data science job seekers investigate salaries for their desired jobs based on their preferred location and job type.
 
-The project is inspired by the online course [Excel for Data Analytics - Full Course for Beginners](https://www.lukebarousse.com/excel) by [Luke Barousse](https://github.com/lukebarousse).
-
-
-
 ### Dashboard File
 My final dashboard is in [Data Science Jobs Dashboard](Data_Science_Jobs_Dashboard.xlsx).
 
@@ -111,4 +107,10 @@ The [dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/m
 ## Conclusion
 This was my first Excel project ever. From writing that first `=sum()` as a beginner to actually building a full-fledged Dashboard, I was able to execute a lot of the skills I learned before working on this project.
 
- The Dashboard provides insights into salary trends across various data-related job titles globally, allowing job seekers to make informed decisions about their career paths based on their preferred country of work and and job type.
+The Dashboard provides insights into salary trends across various data-related job titles globally, allowing job seekers to make informed decisions about their career paths based on their preferred country of work and and job type.
+
+## Credits: 
+The project was inspired by the online course [Excel for Data Analytics - Full Course for Beginners](https://www.lukebarousse.com/excel) by [Luke Barousse](https://github.com/lukebarousse).
+
+
+ 
